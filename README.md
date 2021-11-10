@@ -1,4 +1,4 @@
-[![MasterHead](https://unsplash.com/photos/MDteiLH1CZY)](https://github.com/arek8675/)
+
 
 - 👋 Hi, I’m Arek Smullen!
 - 👀 I’m interested in creating interactive UI's for webpages, desktop apps, web apps, and mobile apps
