@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Python and Javascript from  the PdxCodeGuild Bootcamp.
 
 - 📫 You can reach me at smullenarek10@gmail.com in order to colloborate or for business inquiries.
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arek8675)](https://github.com/arek8675/github-readme-stats)
+
 
 <!---
 arek8675/arek8675 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
