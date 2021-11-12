@@ -1,11 +1,8 @@
 **Arek Smullen**
 
 Hello and welcome! My name is Arek Smullen and I am currently attending a Coding Bootcamp at PDXCodeGuild. So far the
- 
 main language I have been learning and using is Python however soon I will be learning *HTML, CSS, and Javascript*. Im 
-
 excited to use the knowledge that I gain from this oppurtunity to build Clean, Simple, and interactive UI's for Webpages, 
-
 WebApps, Desktop Apps, and even Mobile Apps.
 ##
 **Contact Info**
