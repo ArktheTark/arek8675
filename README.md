@@ -6,7 +6,6 @@ TBD
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arek8675&layout=compact&theme=dark)](https://github.com/arek8675/github-readme-stats)
 
 
 <!---
