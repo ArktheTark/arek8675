@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+#top-nav-bar {
+  padding: 10px 25px 10px 25px;
+  margin-left: auto;
+  background-color: aquamarine;
+}
+
+.nav-link:hover {
+  color: white;
+}
+
+#intro {
+  padding: 25px 100px 25px 100px;
+}
